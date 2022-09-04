@@ -18,6 +18,7 @@ public class MainView extends JPanel {
 	
 	/**
 	 * Launch the application.
+	   Test git commit
 	 */
 
 	/**
